@@ -1,6 +1,6 @@
 # Cerave User Analysis
 
-##Project pipeline
+## Project pipeline
 
 First do analysis on a small set of data then automate the process: 
 - beautifulsoup/selinium csv or twscrape
